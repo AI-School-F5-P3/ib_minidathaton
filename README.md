@@ -41,25 +41,7 @@ En este gráfico de barras se comparan los estados con las tasas de incidencia m
 ### En cambio, los estados con tasas de incidencia más bajas son:
 - **Islas Marianas del Norte (MP)**, **Samoa Americana (AS)**, **Vermont (VT)**, y **Maine (ME)**, que presentan tasas muy bajas, menores al 5%.
 
-### Mapa de calor de casos positivos por estado y fecha
-
-
-Observamos que los estados de California (CA) y Texas (TX), así como otros estados como Arizona (AZ) y Tennessee (TN), tienen áreas de mayor intensidad de color, lo que indica que han experimentado períodos con un alto número de casos positivos.
-
-El gráfico también sugiere que en algunos estados, los casos positivos se mantuvieron más estables y bajos a lo largo del tiempo, como en Alaska (AK), Hawái (HI), y otros estados menos poblados.
-
-### Comparación de tasas de incidencia entre los estados con mayores y menores tasas
-
-En este gráfico de barras se comparan los estados con las tasas de incidencia más altas y más bajas de COVID-19. La tasa de incidencia se refiere al porcentaje de la población que ha contraído la enfermedad.
-
-Los estados con las tasas de incidencia más altas son:
-- Idaho (ID) con más del 20%.
-- Kansas (KS), Alabama (AL), e Iowa (IA) también presentan tasas cercanas al 17-18%.
-
-En cambio, los estados con tasas de incidencia más bajas son:
-- Islas Marianas del Norte (MP), Samoa Americana (AS), Vermont (VT), y Maine (ME), que presentan tasas muy bajas, menores al 5%.
-
-### Mapa de calor de la tasa de mortalidad por estado y fecha
+### Gráfico 3: Mapa de calor de la tasa de mortalidad por estado y fecha
 Observamos que California (CA), Texas (TX) y Nueva York (NY) muestran áreas con colores más oscuros, lo que indica que en estos estados la mortalidad ha sido considerablemente alta.
 
 En cambio, estados como Alaska (AK), Hawái (HI), Maine (ME) y Samoa Americana (AS) presentan colores más claros, lo que indica que la mortalidad en estos estados ha sido baja a lo largo del tiempo.
