@@ -18,7 +18,7 @@ Este proyecto hace uso de las siguientes tecnologías:
 - **Bokeh**: Para crear visualizaciones interactivas y dinámicas.
 
 ## Conclusiones
-# Mapa de calor de casos positivos por estado y fecha
+### Gráfico 1: Mapa de calor de casos positivos por estado y fecha
 
 Este gráfico muestra la distribución de los casos positivos de COVID-19 a lo largo del tiempo en diferentes estados. Los estados están listados en el eje X y las fechas en el eje Y.
 
@@ -30,7 +30,7 @@ El gráfico también sugiere que en algunos estados, los casos positivos se mant
 
 ---
 
-## Gráfico 2: Comparación de tasas de incidencia entre los estados con mayores y menores tasas
+### Gráfico 2: Comparación de tasas de incidencia entre los estados con mayores y menores tasas
 
 En este gráfico de barras se comparan los estados con las tasas de incidencia más altas y más bajas de COVID-19. La tasa de incidencia se refiere al porcentaje de la población que ha contraído la enfermedad.
 
@@ -40,10 +40,6 @@ En este gráfico de barras se comparan los estados con las tasas de incidencia m
 
 ### En cambio, los estados con tasas de incidencia más bajas son:
 - **Islas Marianas del Norte (MP)**, **Samoa Americana (AS)**, **Vermont (VT)**, y **Maine (ME)**, que presentan tasas muy bajas, menores al 5%.
-
----
-
-## Conclusiones:
 
 ### Mapa de calor de casos positivos por estado y fecha
 
@@ -67,7 +63,6 @@ En cambio, los estados con tasas de incidencia más bajas son:
 Observamos que California (CA), Texas (TX) y Nueva York (NY) muestran áreas con colores más oscuros, lo que indica que en estos estados la mortalidad ha sido considerablemente alta.
 
 En cambio, estados como Alaska (AK), Hawái (HI), Maine (ME) y Samoa Americana (AS) presentan colores más claros, lo que indica que la mortalidad en estos estados ha sido baja a lo largo del tiempo.
-## Conclusiones:
 
 ### Estados más poblados y tasas altas de contagios:
 
