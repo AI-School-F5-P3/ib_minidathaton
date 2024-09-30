@@ -19,6 +19,7 @@ Este proyecto hace uso de las siguientes tecnologías:
 
 ## Conclusiones
 ### Gráfico 1: Mapa de calor de casos positivos por estado y fecha
+![image](https://github.com/user-attachments/assets/cb2e33c0-e222-471a-b900-1094c91312f9)
 
 Este gráfico muestra la distribución de los casos positivos de COVID-19 a lo largo del tiempo en diferentes estados. Los estados están listados en el eje X y las fechas en el eje Y.
 
@@ -31,6 +32,7 @@ El gráfico también sugiere que en algunos estados, los casos positivos se mant
 ---
 
 ### Gráfico 2: Comparación de tasas de incidencia entre los estados con mayores y menores tasas
+![image](https://github.com/user-attachments/assets/75aa3c68-e10f-4789-9238-f72e3b291139)
 
 En este gráfico de barras se comparan los estados con las tasas de incidencia más altas y más bajas de COVID-19. La tasa de incidencia se refiere al porcentaje de la población que ha contraído la enfermedad.
 
@@ -40,12 +42,14 @@ En este gráfico de barras se comparan los estados con las tasas de incidencia m
 
 ### En cambio, los estados con tasas de incidencia más bajas son:
 - **Islas Marianas del Norte (MP)**, **Samoa Americana (AS)**, **Vermont (VT)**, y **Maine (ME)**, que presentan tasas muy bajas, menores al 5%.
-
+---
 ### Gráfico 3: Mapa de calor de la tasa de mortalidad por estado y fecha
+![image](https://github.com/user-attachments/assets/a663b1f1-6ccb-4073-9b21-d64d4bfb597a)
+
 Observamos que California (CA), Texas (TX) y Nueva York (NY) muestran áreas con colores más oscuros, lo que indica que en estos estados la mortalidad ha sido considerablemente alta.
 
 En cambio, estados como Alaska (AK), Hawái (HI), Maine (ME) y Samoa Americana (AS) presentan colores más claros, lo que indica que la mortalidad en estos estados ha sido baja a lo largo del tiempo.
-
+---
 ### Estados más poblados y tasas altas de contagios:
 
 Los estados con mayores poblaciones, como California y Texas, muestran una alta cantidad de casos positivos, lo que sugiere una correlación entre la densidad de población y la propagación del virus. Sin embargo, la tasa de mortalidad en estos estados podría estar influenciada por otros factores, como el acceso a los servicios de salud, la respuesta gubernamental, y la capacidad hospitalaria.
