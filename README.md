@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo realizar un análisis de datos históricos sob
 
 El objetivo es cargar los datos desde la API utilizando Python, explorar la información, y elaborar un informe con conclusiones y descubrimientos relevantes. Se busca contar una historia basada en los datos recopilados.
 
-## Tecnologías a utilizadas
+## Tecnologías utilizadas
 
 Este proyecto hace uso de las siguientes tecnologías:
 
@@ -16,3 +16,5 @@ Este proyecto hace uso de las siguientes tecnologías:
 - **Matplotlib**: Para visualización de datos.
 - **Seaborn**: Para crear visualizaciones estadísticas atractivas y informativas.
 - **Bokeh**: Para crear visualizaciones interactivas y dinámicas.
+
+## Conclusiones
